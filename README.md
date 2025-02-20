@@ -1,4 +1,4 @@
-# Supported-HTML-tags-available-in-the-Editor-
+# Supported-HTML-tags-available-in-the-Editor
 A List of supported HTML Tags for the Editor Component in dBASE - provided from news.dbse.com by Heinz Kesting
 
 In the news.dbase.com news server group dbase.getting-started Heinz Kesting post an interesting Article which give a List of supported HTML-Tags for the Editor Component.
